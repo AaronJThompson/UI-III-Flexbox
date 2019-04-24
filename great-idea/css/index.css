@@ -76,7 +76,6 @@ header {
 	position: fixed;
 	background-color: cornflowerblue;
 	height: 50px;
-
 	top:0;
 }
 nav {
@@ -186,4 +185,8 @@ h2{
 .centered-text{
 	text-align: center;
 	margin: 0 auto;
+}
+
+.title{
+	font-size: 200%;
 }
